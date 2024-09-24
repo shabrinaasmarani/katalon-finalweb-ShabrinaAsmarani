@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h-email</name>
+   <tag></tag>
+   <elementGuidId>68aa6b1c-2f38-4383-8dfd-03e0cb0bd381</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;supportCover&quot;]/div[2]/sec-form/div[1]/div/sec-view[3]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;supportCover&quot;]/div[2]/sec-form/div[1]/div/sec-view[3]/div/input</value>
+      <webElementGuid>9cf1a254-e6fe-49dd-9ade-20f855ccca9c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

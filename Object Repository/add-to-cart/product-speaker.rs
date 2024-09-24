@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>product-speaker</name>
+   <tag></tag>
+   <elementGuidId>cf21a5d7-4b54-4cc4-a55f-2e6743c0bb9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;speakersImg&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;speakersImg&quot;]</value>
+      <webElementGuid>b33c518d-1e0e-422e-bd7f-556a7b2d11cc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

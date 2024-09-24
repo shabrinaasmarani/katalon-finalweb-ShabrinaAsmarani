@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>r-city</name>
+   <tag></tag>
+   <elementGuidId>901e9178-5c93-4e41-85ed-f52d3dccd8df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;formCover&quot;]/div[3]/div[1]/sec-view[2]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;formCover&quot;]/div[3]/div[1]/sec-view[2]/div/input</value>
+      <webElementGuid>afcdb650-1df8-472d-9fa2-bfa24a3c73ab</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

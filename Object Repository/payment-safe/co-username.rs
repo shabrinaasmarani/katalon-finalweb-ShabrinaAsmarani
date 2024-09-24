@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>co-username</name>
+   <tag></tag>
+   <elementGuidId>8b04821e-3946-4d7f-847e-8ff3dadb771d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;orderPayment&quot;]/div[1]/div/div[1]/sec-form/sec-view[1]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;orderPayment&quot;]/div[1]/div/div[1]/sec-form/sec-view[1]/div/input</value>
+      <webElementGuid>0326cc23-1eb5-40b6-9b43-624161a0ed39</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

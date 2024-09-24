@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>contact-us</name>
+   <tag></tag>
+   <elementGuidId>ca0a0551-b81e-4b1c-b2d1-cda7e20b4e27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/header/nav/ul/li[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/header/nav/ul/li[5]/a</value>
+      <webElementGuid>9c6b2004-fcf8-464a-a765-adc2d4f906a0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

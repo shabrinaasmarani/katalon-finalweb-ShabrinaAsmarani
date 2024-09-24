@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>create-account</name>
+   <tag></tag>
+   <elementGuidId>321c023f-b940-4c45-bccd-d0aed3571754</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/login-modal/div/div/div[3]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/login-modal/div/div/div[3]/a[2]</value>
+      <webElementGuid>9ff48169-9529-45b2-b341-ecc8bd065c73</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

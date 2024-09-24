@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>r-email</name>
+   <tag></tag>
+   <elementGuidId>ddb2f3b3-3d51-40ec-bec8-0ce157d1e7d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;formCover&quot;]/div[1]/div[1]/sec-view[2]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;formCover&quot;]/div[1]/div[1]/sec-view[2]/div/input</value>
+      <webElementGuid>fb75ec2d-8556-4c7e-8ac7-294f61485518</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

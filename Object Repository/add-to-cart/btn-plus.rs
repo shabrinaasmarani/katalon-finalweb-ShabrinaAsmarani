@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn-plus</name>
+   <tag></tag>
+   <elementGuidId>b7f28b0c-75b6-45fe-b37f-eb474ba65882</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;productProperties&quot;]/div[2]/e-sec-plus-minus/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;productProperties&quot;]/div[2]/e-sec-plus-minus/div/div[3]</value>
+      <webElementGuid>2c922da5-4934-43e0-9e3f-80d5e3694af2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

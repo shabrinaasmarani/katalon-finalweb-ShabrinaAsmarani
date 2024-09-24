@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h-subject</name>
+   <tag></tag>
+   <elementGuidId>18686a9a-190b-40ed-9158-f6efac554376</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;supportCover&quot;]/div[2]/sec-form/div[2]/div/sec-view/div/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;supportCover&quot;]/div[2]/sec-form/div[2]/div/sec-view/div/textarea</value>
+      <webElementGuid>28c548f8-fd4c-47de-86e1-4d4c5b957a0c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dp-product</name>
+   <tag></tag>
+   <elementGuidId>e3ef4181-aba5-4c44-8519-a0da8bc60b33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;supportCover&quot;]/div[2]/sec-form/div[1]/div/sec-view[2]/div/select</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;supportCover&quot;]/div[2]/sec-form/div[1]/div/sec-view[2]/div/select</value>
+      <webElementGuid>a4450dbe-cc04-4b4f-a271-0b2024bf2922</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

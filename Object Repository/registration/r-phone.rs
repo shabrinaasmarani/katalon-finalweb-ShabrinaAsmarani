@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>r-phone</name>
+   <tag></tag>
+   <elementGuidId>fdce414c-41f4-4700-9a9c-bd8b7847db80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;formCover&quot;]/div[2]/div[2]/sec-view/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;formCover&quot;]/div[2]/div[2]/sec-view/div/input</value>
+      <webElementGuid>4be294f6-dbb5-4bfa-a5d1-2552997f196c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

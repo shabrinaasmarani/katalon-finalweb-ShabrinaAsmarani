@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>r-username</name>
+   <tag></tag>
+   <elementGuidId>e747a98f-562b-43de-8164-e2bd8509838c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;formCover&quot;]/div[1]/div[1]/sec-view[1]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;formCover&quot;]/div[1]/div[1]/sec-view[1]/div/input</value>
+      <webElementGuid>8d3086b1-ff29-41f1-8c58-89f88b061c3e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

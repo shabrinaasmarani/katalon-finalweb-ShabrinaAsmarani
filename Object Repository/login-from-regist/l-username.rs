@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>l-username</name>
+   <tag></tag>
+   <elementGuidId>489f49d9-4311-4116-9efa-043e66e25f66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/login-modal/div/div/div[3]/sec-form/sec-view[1]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/login-modal/div/div/div[3]/sec-form/sec-view[1]/div/input</value>
+      <webElementGuid>2434b63a-8d5e-4d9e-bff6-c9793e695a05</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

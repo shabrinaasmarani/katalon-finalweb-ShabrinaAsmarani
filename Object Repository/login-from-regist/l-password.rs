@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>l-password</name>
+   <tag></tag>
+   <elementGuidId>5b81eb8e-a064-4b07-974c-53b4616f9740</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/login-modal/div/div/div[3]/sec-form/sec-view[2]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/login-modal/div/div/div[3]/sec-form/sec-view[2]/div/input</value>
+      <webElementGuid>3c39e331-c28a-46a7-9472-e2b38a0d8e72</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

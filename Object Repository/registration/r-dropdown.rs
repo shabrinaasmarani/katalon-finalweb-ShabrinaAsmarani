@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>r-dropdown</name>
+   <tag></tag>
+   <elementGuidId>2be60bdc-4946-4737-b3d3-9defa0f3698b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='countryListboxRegisterPage']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[name='countryListboxRegisterPage']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//select[name='countryListboxRegisterPage']</value>
+      <webElementGuid>9babfe66-38b1-402a-809a-9dd450bd8724</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

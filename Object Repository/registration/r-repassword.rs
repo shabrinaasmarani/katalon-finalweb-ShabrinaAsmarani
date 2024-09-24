@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>r-repassword</name>
+   <tag></tag>
+   <elementGuidId>2dc31c4f-69c8-4d51-bd95-3b5f65ff34bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;formCover&quot;]/div[1]/div[2]/sec-view[2]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;formCover&quot;]/div[1]/div[2]/sec-view[2]/div/input</value>
+      <webElementGuid>c1a28a38-3408-421c-ac34-8ad1d8e25ce2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
